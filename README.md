@@ -5,7 +5,7 @@
 ### Frontend Developer | React & Next.js Specialist | Building Scalable Web Applications
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrikant-desai-bb19a5233)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrikantdesai787@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sbdesaiw@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shrikant-Desai&color=blueviolet&style=for-the-badge)
@@ -18,11 +18,14 @@
 
 ```typescript
 const shrikant = {
-    location: "Surat, India",
-    role: "Software Developer @ Tagline Infotech",
+    role: "Frontend Developer",
     focus: ["Frontend Development", "Performance Optimization", "Cloud Deployment"],
-    currentlyWorking: "Building scalable real estate platform with Next.js",
-    learning: ["Advanced JavaScript Patterns", "DSA in JavaScript", "System Design"],
+    learning: [
+        "Advanced JavaScript Patterns", 
+        "DSA in JavaScript", 
+        "System Design",
+        "API Development"
+    ],
     askMeAbout: ["React", "Next.js", "TypeScript", "Frontend Architecture", "UI/UX"],
     funFact: "I turn complex designs into clean, reusable components ⚡"
 };
@@ -30,12 +33,10 @@ const shrikant = {
 
 ## 💼 Professional Highlights
 
-- 🏢 **Software Developer** at Tagline Infotech LLP (Feb 2024 - Present)
-- 🎯 Improved application performance by **30%** through SSR/SSG optimization
+- 🎯 Improved application performance by **30%** through optimization
 - 🚀 Deployed and managed production apps on **AWS EC2** and **Azure**
-- 👥 Mentored **3+ junior developers** through code reviews and technical guidance
-- 📊 Built platforms serving **500+ concurrent users** with **99.9% uptime**
 - 🏗️ Architected **multi-tenant PWA** with per-client customization
+- ⚡ Achieved **90+ Lighthouse scores** across performance, accessibility, and SEO
 
 ## 🛠️ Tech Stack
 
@@ -84,38 +85,13 @@ const shrikant = {
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 
-## 🏆 Featured Projects
-
-### 🎯 [Beacon - Strategic Planning Platform](https://github.com/Shrikant-Desai)
-**React.js • Redux • Material-UI • React Flow**
-- Led frontend development for K-12 strategic planning SaaS platform
-- Built interactive plan visualization with React Flow and Gantt charts
-- Implemented multi-level role-based access control for 100+ school districts
-- Developed real-time risk assessment dashboard with automated PDF reporting
-
-### 🎵 [MySeat - Artist-Fan Engagement PWA](https://github.com/Shrikant-Desai)
-**Next.js • TypeScript • PWA • Agora RTC • Tailwind CSS**
-- Architected progressive web app with 95+ PWA score and offline support
-- Integrated Spotify SDK and Apple MusicKit for seamless media playback
-- Built high-concurrency livestreaming supporting 1000+ concurrent viewers
-- Implemented per-artist dynamic theming and branding customization
-
-### ☕ [Dripshipper - Coffee E-commerce Platform](https://github.com/Shrikant-Desai)
-**React.js • Redux • Material-UI • Stripe**
-- Developed white-label dropshipping platform with Shopify/Wix/BigCommerce integration
-- Built complete e-commerce workflow with Stripe payment processing
-- Created intuitive branding tools reducing merchant onboarding to minutes
-- Implemented dynamic pricing engine and subscription management
-
 ## 📊 GitHub Statistics
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shrikant-Desai&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Shrikant-Desai&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Shrikant-Desai&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrikant-Desai&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://nirzak-streak-stats.vercel.app/?user=Shrikant-Desai&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -125,9 +101,10 @@ const shrikant = {
 
 ## 🎯 Current Focus
 
-- 🔨 Building a scalable **Real Estate Platform** with admin & user dashboards
-- 📚 Mastering **Advanced JavaScript Patterns** and **Data Structures**
+- 📚 Mastering **Advanced JavaScript Patterns** and **Data Structures & Algorithms**
 - 🏗️ Deepening expertise in **Frontend System Design** and **Performance Optimization**
+- 🔧 Learning **Node.js & Express.js** for full-stack development
+- 🌐 Building **RESTful APIs** and understanding backend architecture
 - 🌱 Exploring **Micro-frontend Architecture** and **Server Components**
 - ✍️ Writing **clean, reusable components** and pushing code daily
 
@@ -154,8 +131,7 @@ I'm always interested in:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrikant-desai-bb19a5233)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrikantdesai787@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-Call_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917622881303)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sbdesaiw@gmail.com)
 
 </div>
 
@@ -165,9 +141,6 @@ I'm always interested in:
 
 ### 💭 Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### ⚡ Fun Fact
-*I enjoy turning complex UI designs into clean, reusable components — and I push code almost daily!*
 
 **Thanks for visiting! 😊**
 
