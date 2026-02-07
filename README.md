@@ -89,7 +89,7 @@ const shrikant = {
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=Shrikant-Desai&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Shrikant-Desai&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /> -->
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=Shrikant-Desai&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
