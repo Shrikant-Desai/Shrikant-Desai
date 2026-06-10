@@ -114,7 +114,6 @@ I'm always interested in:
 - 🚀 **React/Next.js** projects with complex UI requirements
 - 💼 **SaaS applications** that solve real-world problems
 - 🎨 **UI-heavy applications** with focus on user experience
-- 🔧 **Open source contributions** in the React ecosystem
 - 📊 **Performance optimization** challenges
 
 ## 💡 What I Can Help With
@@ -131,7 +130,7 @@ I'm always interested in:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrikant-desai-bb19a5233)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sbdesaiw@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrikantdesai.dev@gmail.com)
 
 </div>
 
