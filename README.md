@@ -15,7 +15,7 @@
 
 <br/><br/>
 
-<a href="https://git.io/typing-svg">
+<a>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width==800&lines=Full-Stack+Engineer+%7C+React+%2B+Next.js+%2B+Python;Building+AI-Powered+Products+with+LLMs+%26+RAG;FastAPI+%2B+pgvector+%2B+AWS+%2F+Azure;Turning+Ideas+Into+Scalable+Production+Systems" alt="Typing SVG" />
 </a>
 
